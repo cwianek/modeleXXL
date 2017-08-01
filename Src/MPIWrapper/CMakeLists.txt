@@ -1,0 +1,1 @@
+add_library(MPIWrapper MPIWrapper.cpp MPIWrapper.h)
